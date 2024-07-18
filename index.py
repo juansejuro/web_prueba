@@ -4,5 +4,5 @@ print("Me gusta programar")
 print("Me gusta el python")
 print("Me gusta cocinar")
 print("Me gusta ver anime")
-print("Me gusta viajar")
+print("me gusta escuchar musica")
 
